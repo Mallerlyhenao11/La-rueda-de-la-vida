@@ -1,4 +1,4 @@
-# Investigación sobre Aprendizaje y Bases de Datos
+# Investigación 
 En este proyecto he realizado una investigación sobre los siguientes temas:
 
 Ambiente Personal de Aprendizaje (APA)
