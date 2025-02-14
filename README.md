@@ -1,39 +1,14 @@
-# Investigación 
-En este proyecto he realizado una investigación sobre los siguientes temas:
+#Actividades de Aprendizaje y Proyectos
+Este repositorio contiene todas las actividades realizadas en clase, así como proyectos adicionales y aprendizajes adquiridos en diferentes plataformas y recursos. El objetivo es documentar y organizar mi progreso en el aprendizaje de nuevas habilidades y conocimientos.
 
-Ambiente Personal de Aprendizaje (APA)
+📂 Estructura del Repositorio
+Clase/: Carpeta donde se encuentran las actividades realizadas en clase.
+Proyectos/: Proyectos adicionales realizados fuera de clase.
+Recursos/: Materiales adicionales, notas y ejercicios de aprendizaje autodidacta.
+README.md: Este archivo, que describe el propósito y organización del repositorio.
 
-Definición y componentes de un APA
-Importancia del aprendizaje autodirigido y continuo
-Métodos de Aprendizaje
-
-Tipos de estilos de aprendizaje (visual, auditivo, kinestésico, lectura/escritura)
-Mi estilo de aprendizaje preferido
-Tipos de Aprendizaje
-
-Aprendizaje formal, informal y autodirigido
-Otros tipos relevantes: colaborativo, experiencial, mixto
-¿Qué es una Base de Datos?
-
-Definición y características de las bases de datos
-Tipos de Bases de Datos
-
-Bases de datos relacionales (SQL)
-Bases de datos NoSQL
-Otros tipos: jerárquicas, en red, orientadas a objetos
-¿Qué es Ciencia de Datos?
-
-Definición y proceso de la ciencia de datos
-Aplicaciones de la ciencia de datos
-¿Qué es Python y su historia?
-
-Introducción a Python
-Breve historia y características del lenguaje
-Bases de Datos Relacionales y NoSQL
-
-Definición y características de cada tipo
-Replit + Git
-
-Descripción de Replit y Git
-Integración entre Replit y Git
-Además, he incluido un mapa conceptual que resume los principales motores de bases de datos relacionales y NoSQL
+🚀 objetivo
+Este repositorio tiene como objetivo:
+- Documentar el aprendizaje continuo.
+- Organizar y centralizar todas las actividades realizadas.
+- Servir como portafolio de proyectos y actividades.
