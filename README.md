@@ -1,4 +1,4 @@
-#Actividades de Aprendizaje y Proyectos
+Actividades de Aprendizaje y Proyectos
 Este repositorio contiene todas las actividades realizadas en clase, así como proyectos adicionales y aprendizajes adquiridos en diferentes plataformas y recursos. El objetivo es documentar y organizar mi progreso en el aprendizaje de nuevas habilidades y conocimientos.
 
 📂 Estructura del Repositorio
